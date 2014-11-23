@@ -1,0 +1,12 @@
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.csprojResolveAssemblyReference.cache
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.BaseTraffic.resources
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.TrafficType.resources
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
+E:\GitHubRepository\Transportation\WinApp\bin\Debug\WinApp.exe
+E:\GitHubRepository\Transportation\WinApp\bin\Debug\WinApp.pdb
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.exe
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.pdb
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.Bicycle.resources
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.Train.resources
+E:\GitHubRepository\Transportation\WinApp\obj\Debug\WinApp.Airplane.resources
